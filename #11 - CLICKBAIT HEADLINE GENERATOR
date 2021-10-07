@@ -128,6 +128,6 @@ def	generateJobAutomatedHeadline():
 	Wrong.'.format(state, noun, pronoun1, pronoun2)
 	
 	
-# If	the program is run (instead of imported), run the game:
+# Ifthe program is run (instead of imported), run the game:
 if _	_name__ == '__main__':
 	main()
